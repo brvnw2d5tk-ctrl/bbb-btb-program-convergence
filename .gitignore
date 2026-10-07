@@ -1,0 +1,30 @@
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+*.log
+
+# Data and generated files
+data/
+raw/
+cache/
+tmp/
+envs/
+figure_source_data/
+figures/
+submission/
+submission_*
+*.pdf
+*.png
+*.svg
+*.tif
+*.tiff
+*.xlsx
+*.docx
+
+# Local configuration and credentials
+.env
+.env.*
+*.local.yml
+*.local.yaml
+credentials*
+secrets*
