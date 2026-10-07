@@ -42,8 +42,8 @@ The supplied code reproduces figure rendering from prepared source tables; it do
 
 ## Citation
 
-Citation details will be added when a public DOI is assigned.
+Please cite this software as: *Blood–brain and blood–testis barrier program convergence*, GitHub repository: https://github.com/brvnw2d5tk-ctrl/bbb-btb-program-convergence.
 
 ## License
 
-No licence has been selected. The author must choose a licence before public release; see `LICENSE`.
+This project is distributed under the MIT License; see `LICENSE`.
